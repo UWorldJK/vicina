@@ -1,0 +1,21 @@
+{
+  "colors": {
+    "color": {
+      "PrimaryColor": {
+        "value": "#FF5733"
+      },
+      "SecondaryColor": {
+        "value": "#33FF57"
+      },
+      "AccentColor": {
+        "value": "#3357FF"
+      },
+      "BackgroundColor": {
+        "value": "#FFFFFF"
+      },
+      "TextColor": {
+        "value": "#000000"
+      }
+    }
+  }
+}
